@@ -3,6 +3,10 @@
 
 [![NPM version](https://img.shields.io/npm/v/svg-to-component-loader.svg?style=flat)](https://npmjs.com/package/svg-to-component-loader) [![NPM downloads](https://img.shields.io/npm/dm/svg-to-component-loader.svg?style=flat)](https://npmjs.com/package/svg-to-component-loader) [![CircleCI](https://circleci.com/gh/egoist/svg-to-component-loader/tree/master.svg?style=shield)](https://circleci.com/gh/egoist/svg-to-component-loader/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate) [![chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg?style=flat)](https://chat.egoist.moe)
 
+## Why?
+
+By using this it means you may never need things like [vue-bytesize-icons](https://github.com/egoist/vue-bytesize-icons) and [vue-feather-icons](https://github.com/egoist/vue-feather-icons), your SVG would just be transformed to React or Vue component on the fly by this loader. However you can still use the prebuilt library like *vue-bytesize-icons* if you don't want to mess with your webpack config.
+
 ## Install
 
 ```bash
