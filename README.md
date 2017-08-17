@@ -56,7 +56,7 @@ const App = () => (
 )
 ```
 
-### Simply use inline loader options:
+### Or simply use inline loader options:
 
 ```js
 import UserIcon from '!svg-to-component-loader!./path/to/user.react.svg'
