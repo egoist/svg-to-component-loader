@@ -15,6 +15,8 @@ yarn add svg-to-component-loader --dev
 
 ## Usage
 
+### Configure it in webpack config
+
 ```js
 // webpack.config.js
 module.exports = {
@@ -52,6 +54,12 @@ const App = () => (
     <UserIcon className="custom-class" />
   </div>
 )
+```
+
+### Simply use inline loader options:
+
+```js
+import UserIcon from '!svg-to-component-loader!./path/to/user.react.svg'
 ```
 
 ## Contributing
