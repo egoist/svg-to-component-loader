@@ -1,6 +1,6 @@
 {
   "name": "svg-to-component-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Webpack loader to import SVG as React/Vue component",
   "repository": {
     "url": "egoist/svg-to-component-loader",
