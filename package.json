@@ -19,7 +19,7 @@
   "dependencies": {
     "buble": "^0.15.2",
     "loader-utils": "^1.1.0",
-    "svg-to-component": "^1.2.0"
+    "svg-to-component": "^1.2.1"
   },
   "devDependencies": {
     "ava": "^0.22.0",

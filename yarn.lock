@@ -4060,9 +4060,9 @@ supports-color@^4.0.0, supports-color@^4.2.1:
   dependencies:
     has-flag "^2.0.0"
 
-svg-to-component@^1.2.0:
-  version "1.2.0"
-  resolved "http://registry.npm.taobao.org/svg-to-component/download/svg-to-component-1.2.0.tgz#7698a45e20b0bb1c91740083ec7df6f945ab039d"
+svg-to-component@^1.2.1:
+  version "1.2.1"
+  resolved "http://registry.npm.taobao.org/svg-to-component/download/svg-to-component-1.2.1.tgz#ec43749e29fee08c2b705b83eb39a4eaff634eef"
   dependencies:
     babel-core "^6.25.0"
     babel-plugin-transform-react-jsx "^6.24.1"
