@@ -17,7 +17,6 @@
   "author": "egoist <0x142857@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "buble": "^0.15.2",
     "loader-utils": "^1.1.0",
     "svg-to-component": "^1.2.4"
   },
