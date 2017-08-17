@@ -1,0 +1,34 @@
+{
+  "name": "svg-to-component-loader",
+  "version": "0.0.0",
+  "description": "Webpack loader to import SVG as React/Vue component",
+  "repository": {
+    "url": "egoist/svg-to-component-loader",
+    "type": "git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "npm run lint && ava",
+    "lint": "xo"
+  },
+  "author": "egoist <0x142857@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "buble": "^0.15.2",
+    "loader-utils": "^1.1.0",
+    "svg-to-component": "^1.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint-config-rem": "^3.0.0",
+    "memory-fs": "^0.4.1",
+    "webpack": "^3.5.5",
+    "xo": "^0.18.0"
+  },
+  "xo": {
+    "extends": "rem"
+  }
+}
